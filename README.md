@@ -33,7 +33,6 @@
 
 ### 🌟 Public Projects:
 - **TaskManager**: A responsive web app built with **Angular** and **Spring Boot**, designed for task organization with CRUD functionality and JWT authentication. Check out the [TaskManager App](http://yourappdomain.com)
-- **DataAnalyzer**: A Python project leveraging **Pandas** and **Matplotlib** for analyzing and visualizing large datasets. Useful for data-driven decision-making. [GitHub Repository](https://github.com/yourusername/DataAnalyzer)
-- **Custom Minecraft Plugins**: A collection of plugins to customize gameplay mechanics and enhance user experience in Minecraft. [Spigot](https://www.spigotmc.org/members/yourusername/)
+
 
 ---
